@@ -1,0 +1,17 @@
+mode: set
+github.com/davidchandra95/greenlight/cmd/api/healthcheck.go:7.84,15.16 3 0
+github.com/davidchandra95/greenlight/cmd/api/healthcheck.go:15.16,18.3 2 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:12.69,19.26 3 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:19.26,21.3 1 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:23.2,23.16 1 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:29.115,31.16 2 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:31.16,33.3 1 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:35.2,37.34 2 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:37.34,39.3 1 0
+github.com/davidchandra95/greenlight/cmd/api/helpers.go:41.2,45.12 4 0
+github.com/davidchandra95/greenlight/cmd/api/main.go:24.13,49.2 10 0
+github.com/davidchandra95/greenlight/cmd/api/movies.go:8.84,10.2 1 0
+github.com/davidchandra95/greenlight/cmd/api/movies.go:12.82,14.16 2 0
+github.com/davidchandra95/greenlight/cmd/api/movies.go:14.16,17.3 2 0
+github.com/davidchandra95/greenlight/cmd/api/movies.go:19.2,19.54 1 0
+github.com/davidchandra95/greenlight/cmd/api/routes.go:9.53,17.2 5 0
